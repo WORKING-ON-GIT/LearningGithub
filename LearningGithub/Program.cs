@@ -14,6 +14,8 @@ namespace LearningGithub
 		[STAThread]
 		static void Main()
 		{
+			// یه تغییری
+
 			Application.EnableVisualStyles();
 			Application.SetCompatibleTextRenderingDefault(false);
 			Application.Run(new Form1());
